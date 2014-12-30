@@ -1,0 +1,119 @@
+.catalogTable1{
+width: 90%;
+margin: 0 auto;
+border: 4px solid #5757FF;
+}
+.catalogTable1 thead{
+background-color: #5757FF;
+font-weight: bold;
+}
+.catalogTable1 .row1{
+background-color: #A8CFFF;
+}
+.catalogTable1 .row2{
+background-color: #E6FCFF;
+}
+
+.catalogTable1 .inactive1{
+background-color: #E8E8E8;
+}
+.catalogTable1 .inactive2{
+background-color: #B8B8B8;
+}
+
+.catalogForm{
+background-color: #A5FEE3;
+padding: 10px;
+border-radius: 10px;
+width: 90%;
+}
+
+span.success{
+color: green;
+}
+
+span.error{
+color: red;
+}
+.reserveTable1{
+	width: 80%;
+}
+
+.reserveTable1 tr td:first-child{
+	width: 25px;
+}
+
+.reserveTable1 .row1{
+background-color: #A8CFFF;
+}
+
+.reserveTable1 .row2{
+background-color: #E6FCFF;
+}
+
+label{
+	display: inline;
+	margin: 0 0 0 5px;
+}
+
+table.forms{
+	width: 100%;
+}
+
+table.right tr td:first-child{
+	text-align: right;
+	width: 125px;
+}
+
+.tableCaption{
+	font-size: 18pt;
+}
+
+.productLabel{
+}
+
+.noteLabel{
+}
+
+.titleText{
+	font-weight: bold;
+}
+
+.noteText{
+	font-style: italic;
+}
+
+ul.arrowlist{
+	margin: 0 0 10px 10px;
+	list-style-type: none;
+}
+
+ul.arrowlist li{
+	background: url(/ftc/img/arrowbullet.png) no-repeat center left;
+	padding-left: 19px;
+}
+
+.rentalHistory{
+	margin-left: 15px;
+	text-align: center;
+}
+
+.reserveHistory td{
+	padding: 0 7px;
+}
+
+tr.reserved{
+	background-color: #BDBDBD;
+}
+
+tr.tableFooter{
+	background-color: #5757FF;
+}
+
+.warningDelete{
+	width: 80%;
+	margin: 0 auto;
+	background-color: #FFFFCC;
+	border: 2px solid red;
+	padding: 8px;
+}
